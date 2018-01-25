@@ -1,3 +1,29 @@
 page-contact {
+  .contact-logo {
+    display: block;
+    max-width: 90%;
+    margin: 20px auto;
+  }
 
+  .blurb {
+    font-size: 90%;
+    margin: 0 4% 15px 4%;
+  }
+
+  .quoter {
+    font-style: italic;
+    margin: 0 4% 15px 4%;
+  }
+
+  .contact-element {
+    display: inline-block;
+    width: 6em;
+    font-size: 90%;
+    font-weight: bold;
+  }
+
+  .contact-info a {
+    color: color($colors, 'primary');
+    text-decoration: none;
+  }
 }
