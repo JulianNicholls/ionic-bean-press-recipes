@@ -1,0 +1,16 @@
+page-aeropress {
+  .recipe-element {
+    display: inline-block;
+    width: 8em;
+    font-size: 90%;
+    font-weight: bold;
+  }
+
+  .buttons {
+    display: flex;
+
+    button {
+      flex: 1;
+    }
+  }
+}
