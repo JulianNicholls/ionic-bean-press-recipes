@@ -1,3 +1,13 @@
 page-home {
+  .logo,
+  .aero {
+    display: block;
+    margin: 0 auto;
+  }
 
+  .aero {
+    padding: 10px;
+    border: 1px solid color($colors, 'primary');
+    border-radius: 10px;
+  }
 }
