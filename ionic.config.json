@@ -1,0 +1,8 @@
+{
+  "name": "bean-press-recipes",
+  "app_id": "a51477b0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
