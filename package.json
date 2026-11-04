@@ -13,7 +13,7 @@
     "local": "ionic serve -c"
   },
   "dependencies": {
-    "@angular/common": "20.3.31",
+    "@angular/common": "20.3.35",
     "@angular/compiler": "22.1.6",
     "@angular/compiler-cli": "22.1.0",
     "@angular/core": "20.3.31",
